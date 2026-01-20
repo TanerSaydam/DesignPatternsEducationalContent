@@ -76,30 +76,3 @@ public enum NotificationTypeEnum
     Email,
 }
 #endregion
-
-
-//Design Principle
-//Yazılım tasarlarken uyman gereken temel kurallar / felsefeler / rehberler
-//Daha esnek
-//Daha bakımı kolay
-//Daha genişletilebilir
-//Daha test edilebilir
-//SOLID, DRY, KISS, YAGNI, Separation of Concerns
-
-//🧩 Principle vs Pattern farkı
-//Şey	Ne?
-//Principle	“Nasıl düşünmeliyim?”
-//Pattern	“Bu problemi nasıl çözerim?”
-//Framework	“Bunu hazır veriyorum, kullan”
-
-//🏗️ Architectural Pattern nedir?
-
-//Architectural Pattern = Uygulamanın genel iskeletini ve katmanlı yapısını tanımlayan büyük ölçekli tasarım şablonudur.
-
-//Yani:
-
-//❌ Bir class’ın içi değil
-
-//❌ Bir metodun nasıl yazıldığı değil
-
-//✅ Sistemin tamamı nasıl organize edilir? sorusunun cevabı

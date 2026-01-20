@@ -1,7 +1,11 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="01SingletonPattern/01SingletonPattern.csproj" />
   <Project Path="02FactoryPattern/02FactoryPattern.csproj" Id="0d5b986d-aced-434d-b8eb-fefdf6dff3e2" />
   <Project Path="03AbstractFactoryPattern/03AbstractFactoryPattern.csproj" Id="a0032ee3-19c2-42b3-b9ca-134cec74a8fe" />
   <Project Path="04BuilderPattern/04BuilderPattern.csproj" Id="ce657a7f-8900-47d6-a53f-7516c12cccd1" />
+  <Project Path="05PrototypePattern/05PrototypePattern.csproj" Id="a08e4afb-59b2-43bd-aad3-bb6f7cf70f31" />
   <Project Path="_TestWebAPI/_TestWebAPI.csproj" Id="8a4e1b81-50b9-4489-a2a3-b23188f44ff3" />
 </Solution>
