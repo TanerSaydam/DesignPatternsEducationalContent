@@ -7,5 +7,7 @@
   <Project Path="03AbstractFactoryPattern/03AbstractFactoryPattern.csproj" Id="a0032ee3-19c2-42b3-b9ca-134cec74a8fe" />
   <Project Path="04BuilderPattern/04BuilderPattern.csproj" Id="ce657a7f-8900-47d6-a53f-7516c12cccd1" />
   <Project Path="05PrototypePattern/05PrototypePattern.csproj" Id="a08e4afb-59b2-43bd-aad3-bb6f7cf70f31" />
+  <Project Path="06FacadePattern/06FacadePattern.csproj" Id="a0c6a40b-c2c8-4dd6-93d8-bcc445f588a8" />
+  <Project Path="07ProxyPattern/07ProxyPattern.csproj" Id="b82f0f54-576f-4293-b69c-5da3d29fbfc8" />
   <Project Path="_TestWebAPI/_TestWebAPI.csproj" Id="8a4e1b81-50b9-4489-a2a3-b23188f44ff3" />
 </Solution>

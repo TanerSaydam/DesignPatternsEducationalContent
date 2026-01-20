@@ -15,3 +15,8 @@ Kısaca, aynı problemi her seferinde sıfırdan düşünmemek için kullanılan
 3. Abstract Factory Pattern
 4. Builder Pattern
 5. Prototype Pattern
+6. Facade Pattern
+7. Proxy Pattern
+8. Service Pattern
+9. Repository Pattern
+10. Unit Of Work Pattern
