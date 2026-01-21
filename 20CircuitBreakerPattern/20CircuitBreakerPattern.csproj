@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentEmail.Smtp" Version="3.0.2" />
     <PackageReference Include="Polly" Version="8.6.5" />
     <PackageReference Include="Polly.Extensions" Version="8.6.5" />
   </ItemGroup>
