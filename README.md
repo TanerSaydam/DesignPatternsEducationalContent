@@ -1,4 +1,4 @@
-# Design Petterns/Architectures Eğitim İçeriği
+# Design Patterns/Architectures Eğitim İçeriği
 
 Design pattern, yazılımda sık karşılaşılan problemlere karşı defalarca kanıtlanmış, tekrar kullanılabilir çözüm şablonlarıdır.
 
